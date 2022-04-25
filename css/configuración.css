@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --color_1: #3C3C43;
+    --color_2: #007AFF;
+    --color_3: rgba(60, 60, 67, 0.3);
+    --color_4:  #FFFFFF;
+    
+    
+
+    --font_1: 15px;
+    --font_2: 1.7rem;
+}
+html{
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif; 
+    width: auto;
+    height: 550px;
+}
